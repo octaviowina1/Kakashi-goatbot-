@@ -40,7 +40,8 @@ module.exports = {
         const input = args.join(' ').trim();
         if (!input) {
             return api.sendMessage(
-                formatResponse("Je suis activé par Kakashi pour répondre à vos questions\nPrécisez-les pour que j'y réponde"),
+                formatResponse("> 👋 Salut, je suis Octavio, ton assistant virtuel 🤖.\nEn quoi puis-je t'aider aujourd'hui ? 💡
+Pose-moi une question ou donne-moi une commande, je suis là pour toi ! 💬✅e"),
                 event.threadID
             );
         }
