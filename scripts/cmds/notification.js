@@ -32,7 +32,7 @@ module.exports = {
                 },
                 en: {
                         missingMessage: "Please enter the message you want to send to all groups",
-                        notification: "𝑀𝐸𝑆𝑆𝐴𝐺𝐸 𝐷𝐸 𝐿'𝐴𝐷𝑀𝐼𝑁 : ₱ 𝙈𝙀𝙎𝙎𝙄𝙀 𝙊𝙎𝘼𝙉𝙂𝙊 ¶",
+                        notification: "OCTAVIO D'ADMIN :₱ OCTAVIO WINA¶",
                         sendingNotification: "Start sending the noti from admin bot to %1 chat groups",
                         sentNotification: "✅ Sent notification to %1 groups successfully",
                         errorSendingNotification: "An error occurred while sending to %1 groups:\n%2"
